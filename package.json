@@ -1,0 +1,28 @@
+{
+  "name": "which-utah-county",
+  "version": "1.0.0",
+  "description": "Get which Utah county a lat/long coordindate is in",
+  "main": "county-locator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albemuth/which-utah-county.git"
+  },
+  "keywords": [
+    "utah",
+    "euclide"
+  ],
+  "author": "@alfredomesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albemuth/which-utah-county/issues"
+  },
+  "homepage": "https://github.com/albemuth/which-utah-county",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "lodash": "^3.10.1",
+    "mocha": "^2.3.4"
+  }
+}
